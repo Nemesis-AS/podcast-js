@@ -7,18 +7,18 @@ A simple podcast aggregator app to download and manage podcasts
 1. Clone this repo
 2. Install Dependencies
 ```bash
-    npm install
+npm install
 ```
 3. Start development server
 ```bash
-    npm run dev
+npm run dev
 ```
 
 ## Production Server
 
 To run on production mode, just run
 ```bash
-    node server
+node server
 ```
 
 ## Stack
