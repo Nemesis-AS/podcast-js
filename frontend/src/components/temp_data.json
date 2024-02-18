@@ -1,0 +1,20 @@
+{
+    "id": 1388,
+    "title": "HomeTeam GameDev Podcast",
+    "url": "https://gamedevslikeyou.libsyn.com/rss",
+    "link": "http://gamedevslikeyou.libsyn.com/podcast",
+    "description": "This show's mission is to share the stories and views of people from a wide range of background experiences and experience levels, to help show a rich view of what's involved in making games (AAA, indies, game jammers, hobbyists, and more!), various sides of the game industry, and today's game communities and events. Intro and outro music is by Danny Baranowsky, used with permission.",
+    "author": "Chris DeLeon",
+    "image": "https://static.libsyn.com/p/assets/3/b/5/2/3b52e692d029d361/hometeam-podcast.jpg",
+    "language": "en",
+    "dead": 0,
+    "categories": {
+        "42": "Leisure",
+        "48": "Games",
+        "20": "Education",
+        "52": "Video Games",
+        "22": "How To"
+    },
+    "explicit": false,
+    "episodeCount": 100
+}
